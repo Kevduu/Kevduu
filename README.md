@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kevduu
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Spigot Development
+- 📫 How to reach me is through discord, Kevdu#9277
