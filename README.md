@@ -8,6 +8,8 @@
 - 🌟 **Sparkwerk Developer**  
 - 🔭 **Developed into Remote Telescope Controlling**  
 - 🚌 **Contributed to Developing Concepts for Semi-Autonomous Buses**  
+- 🧱 **Minecraft Forge Mod Developer**  
+- 🔧 **SpigotMC Developer**  
 
 ## 📺 YouTube Connection
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Kevdu)
