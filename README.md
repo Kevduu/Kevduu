@@ -4,8 +4,6 @@
 - 🎓 **Bachelor of Science in Mechanical Engineering**
 
 ## Contributions
-- 🎮 **Sunrust Developer and Head Administrator**  
-- 🌟 **Sparkwerk Developer**  
 - 🔭 **Developed into Remote Telescope Controlling**  
 - 🚌 **Contributed to Developing Concepts for Semi-Autonomous Buses**  
 - 🧱 **Minecraft Forge Mod Developer**  
